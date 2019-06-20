@@ -1,0 +1,7 @@
+C:\Users\HP FOLIO\source\repos\Vixer\bin\Debug\Vixer.exe.config
+C:\Users\HP FOLIO\source\repos\Vixer\bin\Debug\Vixer.exe
+C:\Users\HP FOLIO\source\repos\Vixer\bin\Debug\Vixer.pdb
+C:\Users\HP FOLIO\source\repos\Vixer\obj\Debug\Vixer.csprojAssemblyReference.cache
+C:\Users\HP FOLIO\source\repos\Vixer\obj\Debug\Vixer.csproj.CoreCompileInputs.cache
+C:\Users\HP FOLIO\source\repos\Vixer\obj\Debug\Vixer.exe
+C:\Users\HP FOLIO\source\repos\Vixer\obj\Debug\Vixer.pdb
